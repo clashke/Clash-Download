@@ -5,7 +5,7 @@
   </a>
   <h1>Clash下载官网客户端分享 (2026年8月更新)</h1>
   <p>
-    <b>Clash下载官网客户端分享 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
+    <b>Clash全平台下载官网客户端分享 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Update-2026.08-brightgreen.svg" alt="Update">
